@@ -1,0 +1,16 @@
+{
+  "check_interval": 60,
+  "telegram": {
+    "api_id": 28869954,
+    "api_hash": "8a3b84ab12e88b0292ecd690e3ac5dd6" ,
+    "channel_id": 1002371811537
+  },
+  "browser": {
+    "headless": false,
+    "timeout": 5
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}

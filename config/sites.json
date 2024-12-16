@@ -1,0 +1,36 @@
+{
+  "spinco": {
+    "home_page": "https://cutt.ly/JeBiWwKG",
+    "promo_page": "",
+    "is_direct_promo_page": false,
+    "selectors": {
+      "ad_close_button": "//*[@id='js_popup_close_btn']",
+      "login_open_button": "//*[@id='header_fix']/div/div[4]/div/a[2]",
+      "username_input": "//*[@id='email']",
+      "password_input": "//*[@id='password']",
+      "login_submit_button": "//*[@id='login_container']/div/div[5]/button",
+      "promo_menu": "//*[@id='header_fix']/div/div[4]/div/div[3]",
+      "promo_menu_button": "//*[@id='header_fix']/div/div[4]/div/div[3]/div/div[6]/a",
+      "promo_submenu_button": "//*[@id='promocode_tab']",
+      "promo_input": "//*[@id='PromoCode']",
+      "promo_submit": "//*[@id='promo_check']"
+    }
+  },
+  "vaycasino": {
+    "home_page": "https://cutt.ly/ReBfLknUm",
+    "promo_page": "https://www.vaycasino275.com/tr/?profile=open&account=bonuses&page=promo-code",
+    "is_direct_promo_page": true,
+    "selectors": {
+      "ad_close_button": "//*[@id='js_popup_close_btn']",
+      "login_open_button": "//*[@id='root']/div[2]/header/div[1]/div[2]/button[1]",
+      "username_input": "//*[@id='root']/div[6]/div/div/div/div/div/div[2]/form/div[1]/div[3]/div/label/input",
+      "password_input": "//*[@id='root']/div[6]/div/div/div/div/div/div[2]/form/div[1]/div[4]/div/label/input",
+      "login_submit_button": "//*[@id='root']/div[6]/div/div/div/div/div/div[2]/form/div[1]/div[6]/div/button",
+      "promo_menu": "--",
+      "promo_menu_button": "--",
+      "promo_submenu_button": "--",
+      "promo_input": "//*[@id='root']/div[7]/div/div/div/div[2]/div[2]/form/div[1]/div/label/input",
+      "promo_submit": "//*[@id='root']/div[7]/div/div/div/div[2]/div[2]/form/div[2]/button"
+    }
+  }
+}
